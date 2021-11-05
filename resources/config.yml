@@ -1,0 +1,8 @@
+# mettez votre ip dans server_ip
+server_ip: "82.165.182.33"
+# ici mettez le port (de base : 19132)
+server_port: 19132
+
+#Ce n'est que la V1 :)
+
+# Developed by DarkSidesYT

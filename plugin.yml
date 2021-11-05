@@ -1,0 +1,15 @@
+name: HubCMD_By_DarkSidesYT
+api: 3.25.2
+version: 1.0.0
+main: plugin\MainClass
+author: DarkSidesYT
+commands:
+
+ hub:
+
+  description: "Teleporter au hub"
+
+  usage: "/hub"
+
+  
+
